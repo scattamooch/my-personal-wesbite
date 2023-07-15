@@ -16,11 +16,11 @@ function App() {
             <Main />
           </Route>
 
-          <Route path="/hobbies">
+          <Route path="/Hobbies">
             <Hobbies />
           </Route>
 
-          <Route path="/projects">
+          <Route path="/Projects">
             <Projects />
           </Route>
 

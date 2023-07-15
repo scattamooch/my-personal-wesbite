@@ -4,6 +4,7 @@ function Hobbies() {
 
     return (
         <div>Some hobbies</div>
+        
     )
 }
 
