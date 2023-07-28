@@ -4,6 +4,7 @@ import Header from "./Components/Header";
 import Main from "./Components/Main";
 import Hobbies from "./Components/Hobbies";
 import Projects from "./Components/Projects";
+import '@mui/material/styles';
 
 function App() {
   return (
